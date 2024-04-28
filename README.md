@@ -1,7 +1,6 @@
 ![Banner](https://camo.githubusercontent.com/ce4637dbe4f3c5df09bf2ef4f4e59b1793b262c853c8573b2104355295702be5/68747470733a2f2f7472697379612e636f6d2f6d79696d672f6368696c642f5765627369746525323044657369676e2e676966)
 
 ## Hi there, I'm Mehmet Cengiz 👋
-
 Passionate Full Stack App Developer eager to learn and adept in ReactJS, Angular, Java, SpringBoot, and AWS.
 
 ![Coding](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
