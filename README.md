@@ -1,8 +1,6 @@
 ![Banner](https://camo.githubusercontent.com/ce4637dbe4f3c5df09bf2ef4f4e59b1793b262c853c8573b2104355295702be5/68747470733a2f2f7472697379612e636f6d2f6d79696d672f6368696c642f5765627369746525323044657369676e2e676966)
-
 <h1 align="center">Hi 👋, I'm Mehmet Cengiz</h1>
 <h3 align="center">Passionate Full Stack App Developer eager to learn and adept in ReactJS, Angular, Java, SpringBoot, and AWS.</h3>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cengzayhn" alt="cengzayhn" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="left">Connect with me:</h3>
