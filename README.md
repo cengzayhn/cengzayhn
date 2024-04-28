@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mehmet Cengiz</h1>
 <h3 align="center">Passionate Full Stack App Developer eager to learn and adept in ReactJS, Angular, Java, SpringBoot, and AWS.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cengzayhn&label=Profile%20views&color=0e75b6&style=flat" alt="cengzayhn" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cengzayhn" alt="cengzayhn" /></a> </p>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mcengzayhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mcengzayhn" height="30" width="40" /></a>
