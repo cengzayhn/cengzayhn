@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Full Stack App Developer eager to learn and adept in ReactJS, Angular, Java, SpringBoot, and AWS.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cengzayhn&label=Profile%20views&color=0e75b6&style=flat" alt="cengzayhn" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/gif/animated-fat-man-coding-using-feet-kevn6jkag7jauhk8.html">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cengzayhn" alt="cengzayhn" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
